@@ -1,2 +1,3 @@
-# odin-recipies
-this repo contains the recipies project i made while covering the odin project lessons
+A website for recipies!
+> Contains 3 different recipies.
+> Basic html structure only, no css or javascript.
