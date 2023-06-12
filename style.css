@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(41, 36, 65);
+}
+
+h1{
+    color: rgb(186, 228, 252);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+}
+
+.odin-recipies-title {
+    /* background-color: rgb(63, 255, 191); */
+    text-align: center;
+    
+}
+
+ul {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(212, 236, 250);
+}
+
+li {
+    list-style-type: none;
+    font-size: 20px;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: black;
+    font-weight: bold;
+}
+
+a:visited {
+    color: blue;
+}
+
