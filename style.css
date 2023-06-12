@@ -9,18 +9,21 @@ h1{
 }
 
 .odin-recipies-title {
-    /* background-color: rgb(63, 255, 191); */
     text-align: center;
-    
 }
 
-ul {
+ul, ol {
     font-family: 'Courier New', Courier, monospace;
     background-color: rgb(212, 236, 250);
+    list-style-type:decimal;
+}
+
+.recipie-index{
+    list-style-type: none;
 }
 
 li {
-    list-style-type: none;
+    
     font-size: 20px;
 }
 
