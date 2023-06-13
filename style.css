@@ -62,4 +62,5 @@ a.back-to-home-button {
 img {
     height: auto;
     width: 100%;
+    max-width: 100%;
 }
