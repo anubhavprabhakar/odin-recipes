@@ -81,3 +81,7 @@ img {
     max-width: fit-content;
     margin: 0 auto;
 }
+
+.description-container, .ingredients-container, .steps-container{
+    margin: 40px auto;
+}
