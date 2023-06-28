@@ -67,3 +67,8 @@ img {
     /* width: 100%; */
     max-width: 100%;
 }
+
+.image-container {
+    max-width: fit-content;
+    margin: 0 auto;
+}
