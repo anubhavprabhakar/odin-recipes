@@ -6,11 +6,9 @@ h1{
     color: rgb(186, 228, 252);
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-weight: bolder;
-}
-
-.odin-recipies-title {
     text-align: center;
 }
+
 
 ul, ol {
     font-family: 'Courier New', Courier, monospace;
