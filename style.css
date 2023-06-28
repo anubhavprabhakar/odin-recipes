@@ -9,6 +9,10 @@ h1{
     text-align: center;
 }
 
+.content {
+    max-width: 600px;
+    margin: 0 auto;
+}
 
 ul, ol {
     font-family: 'Courier New', Courier, monospace;
@@ -53,11 +57,15 @@ h3{
 }
 
 p{
-    font-weight: bold;
     color: white
 }
 
-a.back-to-home-button {
+.home-button-container{
+    max-width: fit-content;
+    margin: 0 auto;
+}
+
+a.home-button {
     background-color: black;
     color: rgb(255, 255, 255);
 }
